@@ -1,0 +1,419 @@
+{
+  "target_table": "[400100]",
+  "stats": {
+    "total_files": 5,
+    "tables_found": 5,
+    "extracted_at": "2026-02-19T13:02:36.373320"
+  },
+  "results": [
+    {
+      "filename": "document_1.pdf",
+      "metadata": {
+        "company_name": "GEPDEC INFRATECH LIMITED",
+        "table_found": true,
+        "target_table": "[400100]",
+        "page_number": 1,
+        "total_rows": 25
+      },
+      "disclosure_data": {
+        "Name of company": {
+          "01/04/2022_to_31/03/2023": "GEPDEC INFRATECH LIMITED"
+        },
+        "Corporate identity number": {
+          "01/04/2022_to_31/03/2023": "U70200DL2009PLC187667"
+        },
+        "Permanent account number of entity": {
+          "01/04/2022_to_31/03/2023": "AADCG3872G"
+        },
+        "Address of registered office of company": {
+          "01/04/2022_to_31/03/2023": "F-60 FRIENDS APPARTMENTS SECTOR-9 ROHINI New Delhi-110085"
+        },
+        "Type of industry": {
+          "01/04/2022_to_31/03/2023": "Commercial and Industrial"
+        },
+        "Whether company is listed company": {
+          "01/04/2022_to_31/03/2023": "No"
+        },
+        "Number of employees in the company at the end of the financial Year": {
+          "01/04/2022_to_31/03/2023": 101.0
+        },
+        "Whether company has published sustainability report for the financial\nYear": {
+          "01/04/2022_to_31/03/2023": "No"
+        },
+        "Date of board meeting when final accounts were approved": {
+          "01/04/2022_to_31/03/2023": "08/09/2023"
+        },
+        "Date of start of reporting period": {
+          "01/04/2022_to_31/03/2023": "01/04/2022",
+          "01/04/2021_to_31/03/2022": "01/04/2021"
+        },
+        "Date of end of reporting period": {
+          "01/04/2022_to_31/03/2023": "31/03/2023",
+          "01/04/2021_to_31/03/2022": "31/03/2022"
+        },
+        "Nature of report standalone consolidated": {
+          "01/04/2022_to_31/03/2023": "Standalone"
+        },
+        "Content of report": {
+          "01/04/2022_to_31/03/2023": "Financial Statements"
+        },
+        "Description of presentation currency": {
+          "01/04/2022_to_31/03/2023": "INR"
+        },
+        "Level of rounding used in financial statements": {
+          "01/04/2022_to_31/03/2023": "Lakhs"
+        },
+        "Type of cash flow statement": {
+          "01/04/2022_to_31/03/2023": "Indirect Method"
+        },
+        "Whether company is maintaining books of account and other\nrelevant books and papers in electronic form": {
+          "01/04/2022_to_31/03/2023": "Yes"
+        },
+        "Complete postal address of place of maintenance of computer\nservers (storing accounting data)": {
+          "01/04/2022_to_31/03/2023": "7A FloorTower-B Plot No.8 Noida One Block-B Sector-62-201307"
+        },
+        "Name of city of place of maintenance of computer servers (storing\naccounting data)": {
+          "01/04/2022_to_31/03/2023": "Noida"
+        },
+        "Name of state/ union territory of place of maintenance of\ncomputer servers (storing accounting data)": {
+          "01/04/2022_to_31/03/2023": "Uttar Pardesh"
+        },
+        "Pin code of place of maintenance of computer servers (storing\naccounting data)": {
+          "01/04/2022_to_31/03/2023": 201307.0
+        },
+        "Name of district of place of maintenance of computer servers\n(storing accounting data)": {
+          "01/04/2022_to_31/03/2023": "Noida"
+        },
+        "ISO country code of place of maintenance of computer servers\n(storing accounting data)": {
+          "01/04/2022_to_31/03/2023": "IN"
+        },
+        "Name of country of place of maintenance of computer servers\n(storing accounting data)": {
+          "01/04/2022_to_31/03/2023": "India"
+        },
+        "Phone (with STD/ ISD code) of place of maintenance of computer\nservers (storing accounting data)": {
+          "01/04/2022_to_31/03/2023": "0120 4555128"
+        }
+      }
+    },
+    {
+      "filename": "document_2.pdf",
+      "metadata": {
+        "company_name": "GEPDEC INFRATECH LIMITED",
+        "table_found": true,
+        "target_table": "[400100]",
+        "page_number": 1,
+        "total_rows": 25
+      },
+      "disclosure_data": {
+        "Name of company": {
+          "01/04/2023_to_31/03/2024": "GEPDEC INFRATECH LIMITED"
+        },
+        "Corporate identity number": {
+          "01/04/2023_to_31/03/2024": "U70200DL2009PLC187667"
+        },
+        "Permanent account number of entity": {
+          "01/04/2023_to_31/03/2024": "AADCG3872G"
+        },
+        "Address of registered office of company": {
+          "01/04/2023_to_31/03/2024": "F-60 FRIENDS APPARTMENTS SECTOR-9 ROHINI New Delhi-110085"
+        },
+        "Type of industry": {
+          "01/04/2023_to_31/03/2024": "Commercial and Industrial"
+        },
+        "Whether company is listed company": {
+          "01/04/2023_to_31/03/2024": "No"
+        },
+        "Number of employees in the company at the end of the financial Year": {
+          "01/04/2023_to_31/03/2024": 91.0
+        },
+        "Whether company has published sustainability report for the financial\nYear": {
+          "01/04/2023_to_31/03/2024": "No"
+        },
+        "Date of board meeting when final accounts were approved": {
+          "01/04/2023_to_31/03/2024": "17/09/2024"
+        },
+        "Date of start of reporting period": {
+          "01/04/2023_to_31/03/2024": "01/04/2023",
+          "01/04/2022_to_31/03/2023": "01/04/2022"
+        },
+        "Date of end of reporting period": {
+          "01/04/2023_to_31/03/2024": "31/03/2024",
+          "01/04/2022_to_31/03/2023": "31/03/2023"
+        },
+        "Nature of report standalone consolidated": {
+          "01/04/2023_to_31/03/2024": "Standalone"
+        },
+        "Content of report": {
+          "01/04/2023_to_31/03/2024": "Financial Statements"
+        },
+        "Description of presentation currency": {
+          "01/04/2023_to_31/03/2024": "INR"
+        },
+        "Level of rounding used in financial statements": {
+          "01/04/2023_to_31/03/2024": "Lakhs"
+        },
+        "Type of cash flow statement": {
+          "01/04/2023_to_31/03/2024": "Indirect Method"
+        },
+        "Whether company is maintaining books of account and other\nrelevant books and papers in electronic form": {
+          "01/04/2023_to_31/03/2024": "Yes"
+        },
+        "Complete postal address of place of maintenance of computer\nservers (storing accounting data)": {
+          "01/04/2023_to_31/03/2024": "7A FloorTower-B Plot No.8 Noida One Block-B Sector-62-201307"
+        },
+        "Name of city of place of maintenance of computer servers (storing\naccounting data)": {
+          "01/04/2023_to_31/03/2024": "Noida"
+        },
+        "Name of state/ union territory of place of maintenance of\ncomputer servers (storing accounting data)": {
+          "01/04/2023_to_31/03/2024": "Uttar Pardesh"
+        },
+        "Pin code of place of maintenance of computer servers (storing\naccounting data)": {
+          "01/04/2023_to_31/03/2024": 201307.0
+        },
+        "Name of district of place of maintenance of computer servers\n(storing accounting data)": {
+          "01/04/2023_to_31/03/2024": "Noida"
+        },
+        "ISO country code of place of maintenance of computer servers\n(storing accounting data)": {
+          "01/04/2023_to_31/03/2024": "IN"
+        },
+        "Name of country of place of maintenance of computer servers\n(storing accounting data)": {
+          "01/04/2023_to_31/03/2024": "India"
+        },
+        "Phone (with STD/ ISD code) of place of maintenance of computer\nservers (storing accounting data)": {
+          "01/04/2023_to_31/03/2024": "0120-3512213"
+        }
+      }
+    },
+    {
+      "filename": "document_3.pdf",
+      "metadata": {
+        "company_name": "DAIRY PRODUCTS PRIVATE LIMITED",
+        "table_found": true,
+        "target_table": "[400100]",
+        "page_number": 1,
+        "total_rows": 19
+      },
+      "disclosure_data": {
+        "Name of company": {
+          "01/04/2022_to_31/03/2023": "NATURE DELIGHT DAIRY & DAIRY PRODUCTS PRIVATE LIMITED"
+        },
+        "Corporate identity number": {
+          "01/04/2022_to_31/03/2023": "U15201PN2016PTC164449"
+        },
+        "Permanent account number of entity": {
+          "01/04/2022_to_31/03/2023": "AAFCN2297L"
+        },
+        "Address of registered office of company": {
+          "01/04/2022_to_31/03/2023": "GAT NO-1189 A/P- KALAS TAL-INDAPUR PUNE -413105"
+        },
+        "Type of industry": {
+          "01/04/2022_to_31/03/2023": "Commercial and Industrial"
+        },
+        "Registration date": {
+          "01/04/2022_to_31/03/2023": "12/05/2016"
+        },
+        "Category/sub-category of company": {
+          "01/04/2022_to_31/03/2023": "PRIVATE LIMITED"
+        },
+        "Whether company is listed company": {
+          "01/04/2022_to_31/03/2023": "No"
+        },
+        "Number of employees in the company at the end of the financial Year": {
+          "01/04/2022_to_31/03/2023": 319.0
+        },
+        "Whether company has published sustainability report for the financial\nYear": {
+          "01/04/2022_to_31/03/2023": "No"
+        },
+        "Date of board meeting when final accounts were approved": {
+          "01/04/2022_to_31/03/2023": "05/09/2023"
+        },
+        "Date of start of reporting period": {
+          "01/04/2022_to_31/03/2023": "01/04/2022",
+          "01/04/2021_to_31/03/2022": "01/04/2021"
+        },
+        "Date of end of reporting period": {
+          "01/04/2022_to_31/03/2023": "31/03/2023",
+          "01/04/2021_to_31/03/2022": "31/03/2022"
+        },
+        "Nature of report standalone consolidated": {
+          "01/04/2022_to_31/03/2023": "Standalone"
+        },
+        "Content of report": {
+          "01/04/2022_to_31/03/2023": "Financial Statements"
+        },
+        "Description of presentation currency": {
+          "01/04/2022_to_31/03/2023": "INR"
+        },
+        "Level of rounding used in financial statements": {
+          "01/04/2022_to_31/03/2023": "Lakhs"
+        },
+        "Type of cash flow statement": {
+          "01/04/2022_to_31/03/2023": "Indirect Method"
+        },
+        "Whether company is maintaining books of account and other\nrelevant books and papers in electronic form": {
+          "01/04/2022_to_31/03/2023": "No"
+        }
+      }
+    },
+    {
+      "filename": "document_4.pdf",
+      "metadata": {
+        "company_name": "DAIRY PRODUCTS PRIVATE LIMITED",
+        "table_found": true,
+        "target_table": "[400100]",
+        "page_number": 1,
+        "total_rows": 19
+      },
+      "disclosure_data": {
+        "Name of company": {
+          "01/04/2023_to_31/03/2024": "NATURE DELIGHT DAIRY & DAIRY PRODUCTS PRIVATE LIMITED"
+        },
+        "Corporate identity number": {
+          "01/04/2023_to_31/03/2024": "U15201PN2016PTC164449"
+        },
+        "Permanent account number of entity": {
+          "01/04/2023_to_31/03/2024": "AAFCN2297L"
+        },
+        "Address of registered office of company": {
+          "01/04/2023_to_31/03/2024": "GAT NO-1189 A/P- KALAS TAL-INDAPUR PUNE -413105"
+        },
+        "Type of industry": {
+          "01/04/2023_to_31/03/2024": "Commercial and Industrial"
+        },
+        "Registration date": {
+          "01/04/2023_to_31/03/2024": "12/05/2016"
+        },
+        "Category/sub-category of company": {
+          "01/04/2023_to_31/03/2024": "PRIVATE LIMITED"
+        },
+        "Whether company is listed company": {
+          "01/04/2023_to_31/03/2024": "No"
+        },
+        "Number of employees in the company at the end of the financial Year": {
+          "01/04/2023_to_31/03/2024": 426.0
+        },
+        "Whether company has published sustainability report for the financial\nYear": {
+          "01/04/2023_to_31/03/2024": "No"
+        },
+        "Date of board meeting when final accounts were approved": {
+          "01/04/2023_to_31/03/2024": "05/09/2024"
+        },
+        "Date of start of reporting period": {
+          "01/04/2023_to_31/03/2024": "01/04/2023",
+          "01/04/2022_to_31/03/2023": "01/04/2022"
+        },
+        "Date of end of reporting period": {
+          "01/04/2023_to_31/03/2024": "31/03/2024",
+          "01/04/2022_to_31/03/2023": "31/03/2023"
+        },
+        "Nature of report standalone consolidated": {
+          "01/04/2023_to_31/03/2024": "Standalone"
+        },
+        "Content of report": {
+          "01/04/2023_to_31/03/2024": "Financial Statements"
+        },
+        "Description of presentation currency": {
+          "01/04/2023_to_31/03/2024": "INR"
+        },
+        "Level of rounding used in financial statements": {
+          "01/04/2023_to_31/03/2024": "Lakhs"
+        },
+        "Type of cash flow statement": {
+          "01/04/2023_to_31/03/2024": "Indirect Method"
+        },
+        "Whether company is maintaining books of account and other\nrelevant books and papers in electronic form": {
+          "01/04/2023_to_31/03/2024": "No"
+        }
+      }
+    },
+    {
+      "filename": "financial_report.pdf.pdf",
+      "metadata": {
+        "company_name": "GEPDEC INFRATECH LIMITED",
+        "table_found": true,
+        "target_table": "[400100]",
+        "page_number": 1,
+        "total_rows": 25
+      },
+      "disclosure_data": {
+        "Name of company": {
+          "01/04/2022_to_31/03/2023": "GEPDEC INFRATECH LIMITED"
+        },
+        "Corporate identity number": {
+          "01/04/2022_to_31/03/2023": "U70200DL2009PLC187667"
+        },
+        "Permanent account number of entity": {
+          "01/04/2022_to_31/03/2023": "AADCG3872G"
+        },
+        "Address of registered office of company": {
+          "01/04/2022_to_31/03/2023": "F-60 FRIENDS APPARTMENTS SECTOR-9 ROHINI New Delhi-110085"
+        },
+        "Type of industry": {
+          "01/04/2022_to_31/03/2023": "Commercial and Industrial"
+        },
+        "Whether company is listed company": {
+          "01/04/2022_to_31/03/2023": "No"
+        },
+        "Number of employees in the company at the end of the financial Year": {
+          "01/04/2022_to_31/03/2023": 101.0
+        },
+        "Whether company has published sustainability report for the financial\nYear": {
+          "01/04/2022_to_31/03/2023": "No"
+        },
+        "Date of board meeting when final accounts were approved": {
+          "01/04/2022_to_31/03/2023": "08/09/2023"
+        },
+        "Date of start of reporting period": {
+          "01/04/2022_to_31/03/2023": "01/04/2022",
+          "01/04/2021_to_31/03/2022": "01/04/2021"
+        },
+        "Date of end of reporting period": {
+          "01/04/2022_to_31/03/2023": "31/03/2023",
+          "01/04/2021_to_31/03/2022": "31/03/2022"
+        },
+        "Nature of report standalone consolidated": {
+          "01/04/2022_to_31/03/2023": "Standalone"
+        },
+        "Content of report": {
+          "01/04/2022_to_31/03/2023": "Financial Statements"
+        },
+        "Description of presentation currency": {
+          "01/04/2022_to_31/03/2023": "INR"
+        },
+        "Level of rounding used in financial statements": {
+          "01/04/2022_to_31/03/2023": "Lakhs"
+        },
+        "Type of cash flow statement": {
+          "01/04/2022_to_31/03/2023": "Indirect Method"
+        },
+        "Whether company is maintaining books of account and other\nrelevant books and papers in electronic form": {
+          "01/04/2022_to_31/03/2023": "Yes"
+        },
+        "Complete postal address of place of maintenance of computer\nservers (storing accounting data)": {
+          "01/04/2022_to_31/03/2023": "7A FloorTower-B Plot No.8 Noida One Block-B Sector-62-201307"
+        },
+        "Name of city of place of maintenance of computer servers (storing\naccounting data)": {
+          "01/04/2022_to_31/03/2023": "Noida"
+        },
+        "Name of state/ union territory of place of maintenance of\ncomputer servers (storing accounting data)": {
+          "01/04/2022_to_31/03/2023": "Uttar Pardesh"
+        },
+        "Pin code of place of maintenance of computer servers (storing\naccounting data)": {
+          "01/04/2022_to_31/03/2023": 201307.0
+        },
+        "Name of district of place of maintenance of computer servers\n(storing accounting data)": {
+          "01/04/2022_to_31/03/2023": "Noida"
+        },
+        "ISO country code of place of maintenance of computer servers\n(storing accounting data)": {
+          "01/04/2022_to_31/03/2023": "IN"
+        },
+        "Name of country of place of maintenance of computer servers\n(storing accounting data)": {
+          "01/04/2022_to_31/03/2023": "India"
+        },
+        "Phone (with STD/ ISD code) of place of maintenance of computer\nservers (storing accounting data)": {
+          "01/04/2022_to_31/03/2023": "0120 4555128"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,650 @@
+{
+  "document_1": {
+    "company_name": "GEPDEC INFRATECH LIMITED",
+    "page": 74,
+    "statement": {
+      "currency": "Lakhs of INR",
+      "periods": [
+        "01/04/2022 to 31/03/2023",
+        "01/04/2021 to 31/03/2022"
+      ],
+      "data": {
+        "statement_of_profit_and_loss_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null
+        },
+        "disclosure_of_revenue_from_operations_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null
+        },
+        "disclosure_of_revenue_from_operations_for_other_than_finance_company_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null
+        },
+        "revenue_from_sale_of_products": {
+          "01/04/2022 to 31/03/2023": 12942.16,
+          "01/04/2021 to 31/03/2022": 11116.45
+        },
+        "revenue_from_sale_of_services": {
+          "01/04/2022 to 31/03/2023": 3141.24,
+          "01/04/2021 to 31/03/2022": 3730.41
+        },
+        "other_operating_revenues": {
+          "01/04/2022 to 31/03/2023": 1158.35,
+          "01/04/2021 to 31/03/2022": 169.9
+        },
+        "total_revenue_from_operations_other_than_finance_company": {
+          "01/04/2022 to 31/03/2023": 17241.75,
+          "01/04/2021 to 31/03/2022": 15016.76
+        },
+        "total_revenue_from_operations": {
+          "01/04/2022 to 31/03/2023": 17241.75,
+          "01/04/2021 to 31/03/2022": 15016.76
+        },
+        "other_income": {
+          "01/04/2022 to 31/03/2023": 226.19,
+          "01/04/2021 to 31/03/2022": 143.93
+        },
+        "total_revenue": {
+          "01/04/2022 to 31/03/2023": 17467.94,
+          "01/04/2021 to 31/03/2022": 15160.69
+        },
+        "expenses_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null
+        },
+        "cost_of_materials_consumed": {
+          "01/04/2022 to 31/03/2023": 11878.32,
+          "01/04/2021 to 31/03/2022": 9087.38
+        },
+        "changes_in_inventories_of_finished_goods_work_in_progress_and_stock_in_trade": {
+          "01/04/2022 to 31/03/2023": -489.03,
+          "01/04/2021 to 31/03/2022": 219.52
+        },
+        "employee_benefit_expense": {
+          "01/04/2022 to 31/03/2023": 942.83,
+          "01/04/2021 to 31/03/2022": 907.87
+        },
+        "finance_costs": {
+          "01/04/2022 to 31/03/2023": 472.31,
+          "01/04/2021 to 31/03/2022": 386.07
+        },
+        "depreciation_depletion_and_amortisation_expense_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null
+        },
+        "depreciation_expense": {
+          "01/04/2022 to 31/03/2023": 133.4,
+          "01/04/2021 to 31/03/2022": 138.98
+        },
+        "total_depreciation_depletion_and_amortisation_expense": {
+          "01/04/2022 to 31/03/2023": 133.4,
+          "01/04/2021 to 31/03/2022": 138.98
+        },
+        "csr_expenditure": {
+          "01/04/2022 to 31/03/2023": 25.0,
+          "01/04/2021 to 31/03/2022": 0.0
+        },
+        "other_expenses": {
+          "01/04/2022 to 31/03/2023": 2592.17,
+          "01/04/2021 to 31/03/2022": 2675.33
+        },
+        "total_expenses": {
+          "01/04/2022 to 31/03/2023": 15555.0,
+          "01/04/2021 to 31/03/2022": 13415.15
+        },
+        "total_profit_before_prior_period_items_exceptional_items_extraordinary_items_and_tax": {
+          "01/04/2022 to 31/03/2023": 1912.94,
+          "01/04/2021 to 31/03/2022": 1745.54
+        },
+        "total_profit_before_extraordinary_items_and_tax": {
+          "01/04/2022 to 31/03/2023": 1912.94,
+          "01/04/2021 to 31/03/2022": 1745.54
+        },
+        "total_profit_before_tax": {
+          "01/04/2022 to 31/03/2023": 1912.94,
+          "01/04/2021 to 31/03/2022": 1745.54
+        },
+        "tax_expense_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null
+        },
+        "current_tax": {
+          "01/04/2022 to 31/03/2023": 499.16,
+          "01/04/2021 to 31/03/2022": 465.6
+        },
+        "deferred_tax": {
+          "01/04/2022 to 31/03/2023": 15.88,
+          "01/04/2021 to 31/03/2022": 10.8
+        },
+        "total_tax_expense": {
+          "01/04/2022 to 31/03/2023": 515.04,
+          "01/04/2021 to 31/03/2022": 476.4
+        },
+        "total_profit_loss_for_period_from_continuing_operations": {
+          "01/04/2022 to 31/03/2023": 1397.9,
+          "01/04/2021 to 31/03/2022": 1269.14
+        },
+        "profit_loss_from_discontinuing_operations_before_tax": {
+          "01/04/2022 to 31/03/2023": 0.0,
+          "01/04/2021 to 31/03/2022": 0.0
+        },
+        "tax_expense_of_discontinuing_operations": {
+          "01/04/2022 to 31/03/2023": 0.0,
+          "01/04/2021 to 31/03/2022": 0.0
+        },
+        "total_profit_loss_for_period_before_minority_interest": {
+          "01/04/2022 to 31/03/2023": 1397.9,
+          "01/04/2021 to 31/03/2022": 1269.14
+        },
+        "profit_loss_of_minority_interest": {
+          "01/04/2022 to 31/03/2023": 0.0,
+          "01/04/2021 to 31/03/2022": 0.0
+        },
+        "total_profit_loss_for_period": {
+          "01/04/2022 to 31/03/2023": 1397.9,
+          "01/04/2021 to 31/03/2022": 1269.14
+        },
+        "earnings_per_equity_share_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null
+        },
+        "basic_earning_per_equity_share": {
+          "01/04/2022 to 31/03/2023": 44.15,
+          "01/04/2021 to 31/03/2022": 40.08
+        },
+        "diluted_earnings_per_equity_share": {
+          "01/04/2022 to 31/03/2023": 44.15,
+          "01/04/2021 to 31/03/2022": 40.08
+        }
+      }
+    },
+    "total_rows_in_table": 37,
+    "rows_extracted": 37
+  },
+  "document_2": {
+    "company_name": "GEPDEC INFRATECH LIMITED",
+    "page": 82,
+    "statement": {
+      "currency": "Lakhs of INR",
+      "periods": [
+        "01/04/2023 to 31/03/2024",
+        "01/04/2022 to 31/03/2023"
+      ],
+      "data": {
+        "statement_of_profit_and_loss_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null
+        },
+        "disclosure_of_revenue_from_operations_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null
+        },
+        "disclosure_of_revenue_from_operations_for_other_than_finance_company_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null
+        },
+        "revenue_from_sale_of_products": {
+          "01/04/2023 to 31/03/2024": 7720.73,
+          "01/04/2022 to 31/03/2023": 12942.16
+        },
+        "revenue_from_sale_of_services": {
+          "01/04/2023 to 31/03/2024": 1474.01,
+          "01/04/2022 to 31/03/2023": 3141.24
+        },
+        "other_operating_revenues": {
+          "01/04/2023 to 31/03/2024": 1449.43,
+          "01/04/2022 to 31/03/2023": 1158.35
+        },
+        "total_revenue_from_operations_other_than_finance_company": {
+          "01/04/2023 to 31/03/2024": 10644.17,
+          "01/04/2022 to 31/03/2023": 17241.75
+        },
+        "total_revenue_from_operations": {
+          "01/04/2023 to 31/03/2024": 10644.17,
+          "01/04/2022 to 31/03/2023": 17241.75
+        },
+        "other_income": {
+          "01/04/2023 to 31/03/2024": 257.56,
+          "01/04/2022 to 31/03/2023": 226.19
+        },
+        "total_revenue": {
+          "01/04/2023 to 31/03/2024": 10901.73,
+          "01/04/2022 to 31/03/2023": 17467.94
+        },
+        "expenses_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null
+        },
+        "cost_of_materials_consumed": {
+          "01/04/2023 to 31/03/2024": 6586.48,
+          "01/04/2022 to 31/03/2023": 11878.32
+        },
+        "changes_in_inventories_of_finished_goods_work_in_progress_and_stock_in_trade": {
+          "01/04/2023 to 31/03/2024": -625.27,
+          "01/04/2022 to 31/03/2023": -489.03
+        },
+        "employee_benefit_expense": {
+          "01/04/2023 to 31/03/2024": 954.12,
+          "01/04/2022 to 31/03/2023": 942.83
+        },
+        "finance_costs": {
+          "01/04/2023 to 31/03/2024": 708.26,
+          "01/04/2022 to 31/03/2023": 472.31
+        },
+        "depreciation_depletion_and_amortisation_expense_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null
+        },
+        "depreciation_expense": {
+          "01/04/2023 to 31/03/2024": 137.27,
+          "01/04/2022 to 31/03/2023": 133.4
+        },
+        "total_depreciation_depletion_and_amortisation_expense": {
+          "01/04/2023 to 31/03/2024": 137.27,
+          "01/04/2022 to 31/03/2023": 133.4
+        },
+        "csr_expenditure": {
+          "01/04/2023 to 31/03/2024": 250.61,
+          "01/04/2022 to 31/03/2023": 25.0
+        },
+        "other_expenses": {
+          "01/04/2023 to 31/03/2024": 1888.5,
+          "01/04/2022 to 31/03/2023": 2592.17
+        },
+        "total_expenses": {
+          "01/04/2023 to 31/03/2024": 9899.97,
+          "01/04/2022 to 31/03/2023": 15555.0
+        },
+        "total_profit_before_prior_period_items_exceptional_items_extraordinary_items_and_tax": {
+          "01/04/2023 to 31/03/2024": 1001.76,
+          "01/04/2022 to 31/03/2023": 1912.94
+        },
+        "prior_period_items_before_tax": {
+          "01/04/2023 to 31/03/2024": 0.38,
+          "01/04/2022 to 31/03/2023": 0.0
+        },
+        "total_profit_before_extraordinary_items_and_tax": {
+          "01/04/2023 to 31/03/2024": 1002.14,
+          "01/04/2022 to 31/03/2023": 1912.94
+        },
+        "total_profit_before_tax": {
+          "01/04/2023 to 31/03/2024": 1002.14,
+          "01/04/2022 to 31/03/2023": 1912.94
+        },
+        "tax_expense_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null
+        },
+        "current_tax": {
+          "01/04/2023 to 31/03/2024": 338.61,
+          "01/04/2022 to 31/03/2023": 499.16
+        },
+        "deferred_tax": {
+          "01/04/2023 to 31/03/2024": 0.01,
+          "01/04/2022 to 31/03/2023": 15.88
+        },
+        "total_tax_expense": {
+          "01/04/2023 to 31/03/2024": 338.62,
+          "01/04/2022 to 31/03/2023": 515.04
+        },
+        "total_profit_loss_for_period_from_continuing_operations": {
+          "01/04/2023 to 31/03/2024": 663.52,
+          "01/04/2022 to 31/03/2023": 1397.9
+        },
+        "profit_loss_from_discontinuing_operations_before_tax": {
+          "01/04/2023 to 31/03/2024": 0.0,
+          "01/04/2022 to 31/03/2023": 0.0
+        },
+        "tax_expense_of_discontinuing_operations": {
+          "01/04/2023 to 31/03/2024": 0.0,
+          "01/04/2022 to 31/03/2023": 0.0
+        },
+        "total_profit_loss_for_period_before_minority_interest": {
+          "01/04/2023 to 31/03/2024": 663.52,
+          "01/04/2022 to 31/03/2023": 1397.9
+        },
+        "profit_loss_of_minority_interest": {
+          "01/04/2023 to 31/03/2024": 0.0,
+          "01/04/2022 to 31/03/2023": 0.0
+        },
+        "total_profit_loss_for_period": {
+          "01/04/2023 to 31/03/2024": 663.52,
+          "01/04/2022 to 31/03/2023": 1397.9
+        },
+        "earnings_per_equity_share_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null
+        },
+        "basic_earning_per_equity_share": {
+          "01/04/2023 to 31/03/2024": 20.95,
+          "01/04/2022 to 31/03/2023": 44.15
+        },
+        "diluted_earnings_per_equity_share": {
+          "01/04/2023 to 31/03/2024": 20.95,
+          "01/04/2022 to 31/03/2023": 44.15
+        }
+      }
+    },
+    "total_rows_in_table": 38,
+    "rows_extracted": 38
+  },
+  "document_3": {
+    "company_name": "NATURE DELIGHT DAIRY & DAIRY PRODUCTS PRIVATE LIMITED",
+    "page": 80,
+    "statement": {
+      "currency": "Lakhs of INR",
+      "periods": [
+        "01/04/2022 to 31/03/2023",
+        "01/04/2021 to 31/03/2022"
+      ],
+      "data": {
+        "statement_of_profit_and_loss_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null
+        },
+        "disclosure_of_revenue_from_operations_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null
+        },
+        "disclosure_of_revenue_from_operations_for_other_than_finance_company_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null
+        },
+        "revenue_from_sale_of_products": {
+          "01/04/2022 to 31/03/2023": 163286.13,
+          "01/04/2021 to 31/03/2022": 97287.03
+        },
+        "revenue_from_sale_of_services": {
+          "01/04/2022 to 31/03/2023": 10.45,
+          "01/04/2021 to 31/03/2022": 208.11
+        },
+        "total_revenue_from_operations_other_than_finance_company": {
+          "01/04/2022 to 31/03/2023": 163296.58,
+          "01/04/2021 to 31/03/2022": 97495.14
+        },
+        "total_revenue_from_operations": {
+          "01/04/2022 to 31/03/2023": 163296.58,
+          "01/04/2021 to 31/03/2022": 97495.14
+        },
+        "other_income": {
+          "01/04/2022 to 31/03/2023": 362.36,
+          "01/04/2021 to 31/03/2022": 385.09
+        },
+        "total_revenue": {
+          "01/04/2022 to 31/03/2023": 163658.94,
+          "01/04/2021 to 31/03/2022": 97880.23
+        },
+        "expenses_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null
+        },
+        "cost_of_materials_consumed": {
+          "01/04/2022 to 31/03/2023": 156124.3,
+          "01/04/2021 to 31/03/2022": 90109.76
+        },
+        "changes_in_inventories_of_finished_goods_work_in_progress_and_stock_in_trade": {
+          "01/04/2022 to 31/03/2023": 0.0,
+          "01/04/2021 to 31/03/2022": 0.0
+        },
+        "employee_benefit_expense": {
+          "01/04/2022 to 31/03/2023": 1370.92,
+          "01/04/2021 to 31/03/2022": 1381.96
+        },
+        "finance_costs": {
+          "01/04/2022 to 31/03/2023": 1079.18,
+          "01/04/2021 to 31/03/2022": 1603.74
+        },
+        "depreciation_depletion_and_amortisation_expense_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null
+        },
+        "depreciation_expense": {
+          "01/04/2022 to 31/03/2023": 728.84,
+          "01/04/2021 to 31/03/2022": 844.29
+        },
+        "total_depreciation_depletion_and_amortisation_expense": {
+          "01/04/2022 to 31/03/2023": 728.84,
+          "01/04/2021 to 31/03/2022": 844.29
+        },
+        "csr_expenditure": {
+          "01/04/2022 to 31/03/2023": 4.49,
+          "01/04/2021 to 31/03/2022": 11.9
+        },
+        "other_expenses": {
+          "01/04/2022 to 31/03/2023": 2831.66,
+          "01/04/2021 to 31/03/2022": 3247.3
+        },
+        "total_expenses": {
+          "01/04/2022 to 31/03/2023": 162139.39,
+          "01/04/2021 to 31/03/2022": 97198.95
+        },
+        "total_profit_before_prior_period_items_exceptional_items_extraordinary_items_and_tax": {
+          "01/04/2022 to 31/03/2023": 1519.55,
+          "01/04/2021 to 31/03/2022": 681.28
+        },
+        "total_profit_before_extraordinary_items_and_tax": {
+          "01/04/2022 to 31/03/2023": 1519.55,
+          "01/04/2021 to 31/03/2022": 681.28
+        },
+        "total_profit_before_tax": {
+          "01/04/2022 to 31/03/2023": 1519.55,
+          "01/04/2021 to 31/03/2022": 681.28
+        },
+        "tax_expense_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null
+        },
+        "current_tax": {
+          "01/04/2022 to 31/03/2023": 265.5,
+          "01/04/2021 to 31/03/2022": 113.72
+        },
+        "deferred_tax": {
+          "01/04/2022 to 31/03/2023": 334.72,
+          "01/04/2021 to 31/03/2022": 27.97
+        },
+        "total_tax_expense": {
+          "01/04/2022 to 31/03/2023": 600.22,
+          "01/04/2021 to 31/03/2022": 141.69
+        },
+        "total_profit_loss_for_period_from_continuing_operations": {
+          "01/04/2022 to 31/03/2023": 919.33,
+          "01/04/2021 to 31/03/2022": 539.59
+        },
+        "profit_loss_from_discontinuing_operations_before_tax": {
+          "01/04/2022 to 31/03/2023": 0.0,
+          "01/04/2021 to 31/03/2022": 0.0
+        },
+        "tax_expense_of_discontinuing_operations": {
+          "01/04/2022 to 31/03/2023": 0.0,
+          "01/04/2021 to 31/03/2022": 0.0
+        },
+        "total_profit_loss_for_period_before_minority_interest": {
+          "01/04/2022 to 31/03/2023": 919.33,
+          "01/04/2021 to 31/03/2022": 539.59
+        },
+        "profit_loss_of_minority_interest": {
+          "01/04/2022 to 31/03/2023": 0.0,
+          "01/04/2021 to 31/03/2022": 0.0
+        },
+        "total_profit_loss_for_period": {
+          "01/04/2022 to 31/03/2023": 919.33,
+          "01/04/2021 to 31/03/2022": 539.59
+        },
+        "earnings_per_equity_share_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null
+        },
+        "basic_earning_per_equity_share": {
+          "01/04/2022 to 31/03/2023": 39.92,
+          "01/04/2021 to 31/03/2022": 25.44
+        },
+        "diluted_earnings_per_equity_share": {
+          "01/04/2022 to 31/03/2023": 39.92,
+          "01/04/2021 to 31/03/2022": 25.44
+        }
+      }
+    },
+    "total_rows_in_table": 36,
+    "rows_extracted": 36
+  },
+  "document_4": {
+    "company_name": "NATURE DELIGHT DAIRY & DAIRY PRODUCTS PRIVATE LIMITED",
+    "page": 100,
+    "statement": {
+      "currency": "Lakhs of INR",
+      "periods": [
+        "01/04/2023 to 31/03/2024",
+        "01/04/2022 to 31/03/2023"
+      ],
+      "data": {
+        "statement_of_profit_and_loss_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null
+        },
+        "disclosure_of_revenue_from_operations_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null
+        },
+        "disclosure_of_revenue_from_operations_for_other_than_finance_company_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null
+        },
+        "revenue_from_sale_of_products": {
+          "01/04/2023 to 31/03/2024": 161250.72,
+          "01/04/2022 to 31/03/2023": 163286.13
+        },
+        "revenue_from_sale_of_services": {
+          "01/04/2023 to 31/03/2024": 2140.1,
+          "01/04/2022 to 31/03/2023": 10.45
+        },
+        "total_revenue_from_operations_other_than_finance_company": {
+          "01/04/2023 to 31/03/2024": 163390.82,
+          "01/04/2022 to 31/03/2023": 163296.58
+        },
+        "total_revenue_from_operations": {
+          "01/04/2023 to 31/03/2024": 163390.82,
+          "01/04/2022 to 31/03/2023": 163296.58
+        },
+        "other_income": {
+          "01/04/2023 to 31/03/2024": 814.55,
+          "01/04/2022 to 31/03/2023": 362.36
+        },
+        "total_revenue": {
+          "01/04/2023 to 31/03/2024": 164205.37,
+          "01/04/2022 to 31/03/2023": 163658.94
+        },
+        "expenses_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null
+        },
+        "cost_of_materials_consumed": {
+          "01/04/2023 to 31/03/2024": 155124.15,
+          "01/04/2022 to 31/03/2023": 156124.3
+        },
+        "changes_in_inventories_of_finished_goods_work_in_progress_and_stock_in_trade": {
+          "01/04/2023 to 31/03/2024": 0.0,
+          "01/04/2022 to 31/03/2023": 0.0
+        },
+        "employee_benefit_expense": {
+          "01/04/2023 to 31/03/2024": 1634.12,
+          "01/04/2022 to 31/03/2023": 1370.92
+        },
+        "finance_costs": {
+          "01/04/2023 to 31/03/2024": 1927.49,
+          "01/04/2022 to 31/03/2023": 1079.18
+        },
+        "depreciation_depletion_and_amortisation_expense_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null
+        },
+        "depreciation_expense": {
+          "01/04/2023 to 31/03/2024": 854.5,
+          "01/04/2022 to 31/03/2023": 728.84
+        },
+        "total_depreciation_depletion_and_amortisation_expense": {
+          "01/04/2023 to 31/03/2024": 854.5,
+          "01/04/2022 to 31/03/2023": 728.84
+        },
+        "csr_expenditure": {
+          "01/04/2023 to 31/03/2024": 19.25,
+          "01/04/2022 to 31/03/2023": 4.49
+        },
+        "other_expenses": {
+          "01/04/2023 to 31/03/2024": 3011.33,
+          "01/04/2022 to 31/03/2023": 2831.66
+        },
+        "total_expenses": {
+          "01/04/2023 to 31/03/2024": 162570.84,
+          "01/04/2022 to 31/03/2023": 162139.39
+        },
+        "total_profit_before_prior_period_items_exceptional_items_extraordinary_items_and_tax": {
+          "01/04/2023 to 31/03/2024": 1634.53,
+          "01/04/2022 to 31/03/2023": 1519.55
+        },
+        "total_profit_before_extraordinary_items_and_tax": {
+          "01/04/2023 to 31/03/2024": 1634.53,
+          "01/04/2022 to 31/03/2023": 1519.55
+        },
+        "total_profit_before_tax": {
+          "01/04/2023 to 31/03/2024": 1634.53,
+          "01/04/2022 to 31/03/2023": 1519.55
+        },
+        "tax_expense_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null
+        },
+        "current_tax": {
+          "01/04/2023 to 31/03/2024": 297.81,
+          "01/04/2022 to 31/03/2023": 265.5
+        },
+        "deferred_tax": {
+          "01/04/2023 to 31/03/2024": 282.93,
+          "01/04/2022 to 31/03/2023": 334.72
+        },
+        "total_tax_expense": {
+          "01/04/2023 to 31/03/2024": 580.74,
+          "01/04/2022 to 31/03/2023": 600.22
+        },
+        "total_profit_loss_for_period_from_continuing_operations": {
+          "01/04/2023 to 31/03/2024": 1053.79,
+          "01/04/2022 to 31/03/2023": 919.33
+        },
+        "profit_loss_from_discontinuing_operations_before_tax": {
+          "01/04/2023 to 31/03/2024": 0.0,
+          "01/04/2022 to 31/03/2023": 0.0
+        },
+        "tax_expense_of_discontinuing_operations": {
+          "01/04/2023 to 31/03/2024": 0.0,
+          "01/04/2022 to 31/03/2023": 0.0
+        },
+        "total_profit_loss_for_period_before_minority_interest": {
+          "01/04/2023 to 31/03/2024": 1053.79,
+          "01/04/2022 to 31/03/2023": 919.33
+        },
+        "profit_loss_of_minority_interest": {
+          "01/04/2023 to 31/03/2024": 0.0,
+          "01/04/2022 to 31/03/2023": 0.0
+        },
+        "total_profit_loss_for_period": {
+          "01/04/2023 to 31/03/2024": 1053.79,
+          "01/04/2022 to 31/03/2023": 919.33
+        },
+        "earnings_per_equity_share_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null
+        },
+        "basic_earning_per_equity_share": {
+          "01/04/2023 to 31/03/2024": 45.76,
+          "01/04/2022 to 31/03/2023": 39.92
+        },
+        "diluted_earnings_per_equity_share": {
+          "01/04/2023 to 31/03/2024": 45.76,
+          "01/04/2022 to 31/03/2023": 39.92
+        }
+      }
+    },
+    "total_rows_in_table": 36,
+    "rows_extracted": 36
+  }
+}

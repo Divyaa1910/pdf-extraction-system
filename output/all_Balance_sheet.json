@@ -1,0 +1,882 @@
+{
+  "document_1": {
+    "company_name": "GEPDEC INFRATECH LIMITED",
+    "page": 30,
+    "Disclosures - Secretarial audit report": {
+      "currency": "INR",
+      "periods": [
+        "31/03/2023",
+        "31/03/2022",
+        "31/03/2021"
+      ],
+      "data": {
+        "disclosure_in_secretarial_audit_report_explanatory__textblock_": {
+          "01/04/2022\nto\n31/03/2023": null
+        },
+        "whether_secretarial_audit_report_is_applicable_on_company": {
+          "01/04/2022\nto\n31/03/2023": "No"
+        },
+        "balance_sheet__abstract_": {
+          "31/03/2023": null,
+          "31/03/2022": null,
+          "31/03/2021": null
+        },
+        "equity_and_liabilities__abstract_": {
+          "31/03/2023": null,
+          "31/03/2022": null,
+          "31/03/2021": null
+        },
+        "shareholders__funds__abstract_": {
+          "31/03/2023": null,
+          "31/03/2022": null,
+          "31/03/2021": null
+        },
+        "share_capital": {
+          "31/03/2023": 316.64,
+          "31/03/2022": 316.64,
+          "31/03/2021": null
+        },
+        "reserves_and_surplus": {
+          "31/03/2023": 12625.18,
+          "31/03/2022": 11227.28,
+          "31/03/2021": null
+        },
+        "total_shareholders__funds": {
+          "31/03/2023": 12941.82,
+          "31/03/2022": 11543.92,
+          "31/03/2021": null
+        },
+        "share_application_money_pending_allotment": {
+          "31/03/2023": 0.0,
+          "31/03/2022": 0.0,
+          "31/03/2021": null
+        },
+        "minority_interest": {
+          "31/03/2023": 0.0,
+          "31/03/2022": 0.0,
+          "31/03/2021": null
+        },
+        "non_current_liabilities__abstract_": {
+          "31/03/2023": null,
+          "31/03/2022": null,
+          "31/03/2021": null
+        },
+        "long_term_borrowings": {
+          "31/03/2023": 78.91,
+          "31/03/2022": 94.36,
+          "31/03/2021": null
+        },
+        "deferred_tax_liabilities__net_": {
+          "31/03/2023": 32.33,
+          "31/03/2022": 16.44,
+          "31/03/2021": null
+        },
+        "other_long_term_liabilities": {
+          "31/03/2023": 118.72,
+          "31/03/2022": 1061.21,
+          "31/03/2021": null
+        },
+        "long_term_provisions": {
+          "31/03/2023": 0.0,
+          "31/03/2022": 0.0,
+          "31/03/2021": null
+        },
+        "total_non_current_liabilities": {
+          "31/03/2023": 229.96,
+          "31/03/2022": 1172.01,
+          "31/03/2021": null
+        },
+        "current_liabilities__abstract_": {
+          "31/03/2023": null,
+          "31/03/2022": null,
+          "31/03/2021": null
+        },
+        "short_term_borrowings": {
+          "31/03/2023": 1505.16,
+          "31/03/2022": 1726.92,
+          "31/03/2021": null
+        },
+        "trade_payables": {
+          "31/03/2023": 4650.7,
+          "31/03/2022": 9095.14,
+          "31/03/2021": null
+        },
+        "other_current_liabilities": {
+          "31/03/2023": 4247.67,
+          "31/03/2022": 2963.22,
+          "31/03/2021": null
+        },
+        "short_term_provisions": {
+          "31/03/2023": 129.38,
+          "31/03/2022": 361.52,
+          "31/03/2021": null
+        },
+        "total_current_liabilities": {
+          "31/03/2023": 10532.91,
+          "31/03/2022": 14146.8,
+          "31/03/2021": null
+        },
+        "total_equity_and_liabilities": {
+          "31/03/2023": 23704.69,
+          "31/03/2022": 26862.73,
+          "31/03/2021": null
+        },
+        "assets__abstract_": {
+          "31/03/2023": null,
+          "31/03/2022": null,
+          "31/03/2021": null
+        },
+        "non_current_assets__abstract_": {
+          "31/03/2023": null,
+          "31/03/2022": null,
+          "31/03/2021": null
+        },
+        "fixed_assets__abstract_": {
+          "31/03/2023": null,
+          "31/03/2022": null,
+          "31/03/2021": null
+        },
+        "tangible_assets": {
+          "31/03/2023": 1728.63,
+          "31/03/2022": 1743.65,
+          "31/03/2021": 1839.74
+        },
+        "intangible_assets": {
+          "31/03/2023": 0.0,
+          "31/03/2022": 0.0,
+          "31/03/2021": null
+        },
+        "total_fixed_assets": {
+          "31/03/2023": 1728.63,
+          "31/03/2022": 1743.65,
+          "31/03/2021": null
+        },
+        "non_current_investments": {
+          "31/03/2023": 243.25,
+          "31/03/2022": 244.25,
+          "31/03/2021": null
+        },
+        "long_term_loans_and_advances": {
+          "31/03/2023": 1896.01,
+          "31/03/2022": 1725.55,
+          "31/03/2021": null
+        },
+        "total_non_current_assets": {
+          "31/03/2023": 3867.89,
+          "31/03/2022": 3713.45,
+          "31/03/2021": null
+        },
+        "current_assets__abstract_": {
+          "31/03/2023": null,
+          "31/03/2022": null,
+          "31/03/2021": null
+        },
+        "current_investments": {
+          "31/03/2023": 0.0,
+          "31/03/2022": 0.0,
+          "31/03/2021": null
+        },
+        "inventories": {
+          "31/03/2023": 661.3,
+          "31/03/2022": 172.27,
+          "31/03/2021": null
+        },
+        "trade_receivables": {
+          "31/03/2023": 6890.63,
+          "31/03/2022": 13539.19,
+          "31/03/2021": null
+        },
+        "cash_and_bank_balances": {
+          "31/03/2023": 2146.09,
+          "31/03/2022": 2804.33,
+          "31/03/2021": null
+        },
+        "short_term_loans_and_advances": {
+          "31/03/2023": 1300.16,
+          "31/03/2022": 1152.34,
+          "31/03/2021": null
+        },
+        "other_current_assets": {
+          "31/03/2023": 8838.62,
+          "31/03/2022": 5481.15,
+          "31/03/2021": null
+        },
+        "total_current_assets": {
+          "31/03/2023": 19836.8,
+          "31/03/2022": 23149.28,
+          "31/03/2021": null
+        },
+        "total_assets": {
+          "31/03/2023": 23704.69,
+          "31/03/2022": 26862.73,
+          "31/03/2021": null
+        }
+      }
+    }
+  },
+  "document_2": {
+    "company_name": "GEPDEC INFRATECH LIMITED",
+    "page": 36,
+    "Disclosures - Secretarial audit report": {
+      "currency": "rs",
+      "periods": [
+        "31/03/2024",
+        "31/03/2023",
+        "31/03/2022"
+      ],
+      "data": {
+        "disclosure_in_secretarial_audit_report_explanatory__textblock_": {
+          "01/04/2023\nto\n31/03/2024": null
+        },
+        "whether_secretarial_audit_report_is_applicable_on_company": {
+          "01/04/2023\nto\n31/03/2024": "No"
+        },
+        "balance_sheet__abstract_": {
+          "31/03/2024": null,
+          "31/03/2023": null,
+          "31/03/2022": null
+        },
+        "equity_and_liabilities__abstract_": {
+          "31/03/2024": null,
+          "31/03/2023": null,
+          "31/03/2022": null
+        },
+        "shareholders__funds__abstract_": {
+          "31/03/2024": null,
+          "31/03/2023": null,
+          "31/03/2022": null
+        },
+        "share_capital": {
+          "31/03/2024": 316.6421,
+          "31/03/2023": 316.64,
+          "31/03/2022": null
+        },
+        "reserves_and_surplus": {
+          "31/03/2024": 13288.69,
+          "31/03/2023": 12625.18,
+          "31/03/2022": null
+        },
+        "total_shareholders__funds": {
+          "31/03/2024": 13605.3321,
+          "31/03/2023": 12941.82,
+          "31/03/2022": null
+        },
+        "share_application_money_pending_allotment": {
+          "31/03/2024": 0.0,
+          "31/03/2023": 0.0,
+          "31/03/2022": null
+        },
+        "minority_interest": {
+          "31/03/2024": 0.0,
+          "31/03/2023": 0.0,
+          "31/03/2022": null
+        },
+        "non_current_liabilities__abstract_": {
+          "31/03/2024": null,
+          "31/03/2023": null,
+          "31/03/2022": null
+        },
+        "long_term_borrowings": {
+          "31/03/2024": 611.05,
+          "31/03/2023": 78.91,
+          "31/03/2022": null
+        },
+        "deferred_tax_liabilities__net_": {
+          "31/03/2024": 32.34,
+          "31/03/2023": 32.33,
+          "31/03/2022": null
+        },
+        "other_long_term_liabilities": {
+          "31/03/2024": 356.27,
+          "31/03/2023": 118.72,
+          "31/03/2022": null
+        },
+        "long_term_provisions": {
+          "31/03/2024": 0.0,
+          "31/03/2023": 0.0,
+          "31/03/2022": null
+        },
+        "total_non_current_liabilities": {
+          "31/03/2024": 999.66,
+          "31/03/2023": 229.96,
+          "31/03/2022": null
+        },
+        "current_liabilities__abstract_": {
+          "31/03/2024": null,
+          "31/03/2023": null,
+          "31/03/2022": null
+        },
+        "short_term_borrowings": {
+          "31/03/2024": 5229.93,
+          "31/03/2023": 1875.87,
+          "31/03/2022": null
+        },
+        "trade_payables": {
+          "31/03/2024": 2085.13,
+          "31/03/2023": 4650.7,
+          "31/03/2022": null
+        },
+        "other_current_liabilities": {
+          "31/03/2024": 3222.42,
+          "31/03/2023": 3876.96,
+          "31/03/2022": null
+        },
+        "short_term_provisions": {
+          "31/03/2024": 142.37,
+          "31/03/2023": 129.38,
+          "31/03/2022": null
+        },
+        "total_current_liabilities": {
+          "31/03/2024": 10679.85,
+          "31/03/2023": 10532.91,
+          "31/03/2022": null
+        },
+        "total_equity_and_liabilities": {
+          "31/03/2024": 25284.8421,
+          "31/03/2023": 23704.69,
+          "31/03/2022": null
+        },
+        "assets__abstract_": {
+          "31/03/2024": null,
+          "31/03/2023": null,
+          "31/03/2022": null
+        },
+        "non_current_assets__abstract_": {
+          "31/03/2024": null,
+          "31/03/2023": null,
+          "31/03/2022": null
+        },
+        "fixed_assets__abstract_": {
+          "31/03/2024": null,
+          "31/03/2023": null,
+          "31/03/2022": null
+        },
+        "tangible_assets": {
+          "31/03/2024": 1591.5,
+          "31/03/2023": 1728.63,
+          "31/03/2022": 1743.65
+        },
+        "intangible_assets": {
+          "31/03/2024": 0.0,
+          "31/03/2023": 0.0,
+          "31/03/2022": null
+        },
+        "total_fixed_assets": {
+          "31/03/2024": 1591.5,
+          "31/03/2023": 1728.63,
+          "31/03/2022": null
+        },
+        "non_current_investments": {
+          "31/03/2024": 243.25,
+          "31/03/2023": 243.25,
+          "31/03/2022": null
+        },
+        "long_term_loans_and_advances": {
+          "31/03/2024": 3933.04,
+          "31/03/2023": 1896.01,
+          "31/03/2022": null
+        },
+        "total_non_current_assets": {
+          "31/03/2024": 5767.79,
+          "31/03/2023": 3867.89,
+          "31/03/2022": null
+        },
+        "current_assets__abstract_": {
+          "31/03/2024": null,
+          "31/03/2023": null,
+          "31/03/2022": null
+        },
+        "current_investments": {
+          "31/03/2024": 0.0,
+          "31/03/2023": 0.0,
+          "31/03/2022": null
+        },
+        "inventories": {
+          "31/03/2024": 1286.57,
+          "31/03/2023": 661.3,
+          "31/03/2022": null
+        },
+        "trade_receivables": {
+          "31/03/2024": 5338.75,
+          "31/03/2023": 6890.63,
+          "31/03/2022": null
+        },
+        "cash_and_bank_balances": {
+          "31/03/2024": 2030.74,
+          "31/03/2023": 2146.09,
+          "31/03/2022": null
+        },
+        "short_term_loans_and_advances": {
+          "31/03/2024": 1323.26,
+          "31/03/2023": 1300.16,
+          "31/03/2022": null
+        },
+        "other_current_assets": {
+          "31/03/2024": 9537.73,
+          "31/03/2023": 8838.62,
+          "31/03/2022": null
+        },
+        "total_current_assets": {
+          "31/03/2024": 19517.05,
+          "31/03/2023": 19836.8,
+          "31/03/2022": null
+        },
+        "total_assets": {
+          "31/03/2024": 25284.84,
+          "31/03/2023": 23704.69,
+          "31/03/2022": null
+        }
+      }
+    }
+  },
+  "document_3": {
+    "company_name": "NATURE DELIGHT DAIRY & DAIRY PRODUCTS PRIVATE LIMITED",
+    "page": 27,
+    "Balance sheet": {
+      "currency": "INR",
+      "periods": [
+        "31/03/2023",
+        "31/03/2022",
+        "31/03/2021"
+      ],
+      "data": {
+        "disclosure_in_secretarial_audit_report_explanatory__textblock_": {
+          "01/04/2022\nto\n31/03/2023": null
+        },
+        "whether_secretarial_audit_report_is_applicable_on_company": {
+          "01/04/2022\nto\n31/03/2023": "Yes"
+        },
+        "whether_secretarial_audit_report_has_been_qualified_or_has_any_observation_or_other_remarks": {
+          "01/04/2022\nto\n31/03/2023": "Yes"
+        },
+        "secretarial_qualifications_or_observations_or_other_remarks_in_secretarial_audit_report": {
+          "01/04/2022\nto\n31/03/2023": "Textual information (9)\nSee below"
+        },
+        "balance_sheet__abstract_": {
+          "31/03/2023": null,
+          "31/03/2022": null,
+          "31/03/2021": null
+        },
+        "equity_and_liabilities__abstract_": {
+          "31/03/2023": null,
+          "31/03/2022": null,
+          "31/03/2021": null
+        },
+        "shareholders__funds__abstract_": {
+          "31/03/2023": null,
+          "31/03/2022": null,
+          "31/03/2021": null
+        },
+        "share_capital": {
+          "31/03/2023": 2302.83,
+          "31/03/2022": 2121.26,
+          "31/03/2021": null
+        },
+        "reserves_and_surplus": {
+          "31/03/2023": 3075.88,
+          "31/03/2022": 1229.96,
+          "31/03/2021": null
+        },
+        "total_shareholders__funds": {
+          "31/03/2023": 5378.71,
+          "31/03/2022": 3351.22,
+          "31/03/2021": null
+        },
+        "share_application_money_pending_allotment": {
+          "31/03/2023": 0.0,
+          "31/03/2022": 0.0,
+          "31/03/2021": null
+        },
+        "minority_interest": {
+          "31/03/2023": 0.0,
+          "31/03/2022": 0.0,
+          "31/03/2021": null
+        },
+        "non_current_liabilities__abstract_": {
+          "31/03/2023": null,
+          "31/03/2022": null,
+          "31/03/2021": null
+        },
+        "long_term_borrowings": {
+          "31/03/2023": 7667.83,
+          "31/03/2022": 8558.94,
+          "31/03/2021": null
+        },
+        "deferred_tax_liabilities__net_": {
+          "31/03/2023": 1085.7,
+          "31/03/2022": 750.97,
+          "31/03/2021": null
+        },
+        "other_long_term_liabilities": {
+          "31/03/2023": 665.04,
+          "31/03/2022": 732.94,
+          "31/03/2021": null
+        },
+        "long_term_provisions": {
+          "31/03/2023": 54.6,
+          "31/03/2022": 44.83,
+          "31/03/2021": null
+        },
+        "total_non_current_liabilities": {
+          "31/03/2023": 9473.17,
+          "31/03/2022": 10087.68,
+          "31/03/2021": null
+        },
+        "current_liabilities__abstract_": {
+          "31/03/2023": null,
+          "31/03/2022": null,
+          "31/03/2021": null
+        },
+        "short_term_borrowings": {
+          "31/03/2023": 8873.93,
+          "31/03/2022": 5418.53,
+          "31/03/2021": null
+        },
+        "trade_payables": {
+          "31/03/2023": 11905.21,
+          "31/03/2022": 7203.91,
+          "31/03/2021": null
+        },
+        "other_current_liabilities": {
+          "31/03/2023": 8314.73,
+          "31/03/2022": 7684.27,
+          "31/03/2021": null
+        },
+        "short_term_provisions": {
+          "31/03/2023": 266.36,
+          "31/03/2022": 113.92,
+          "31/03/2021": null
+        },
+        "total_current_liabilities": {
+          "31/03/2023": 29360.23,
+          "31/03/2022": 20420.63,
+          "31/03/2021": null
+        },
+        "total_equity_and_liabilities": {
+          "31/03/2023": 44212.11,
+          "31/03/2022": 33859.53,
+          "31/03/2021": null
+        },
+        "assets__abstract_": {
+          "31/03/2023": null,
+          "31/03/2022": null,
+          "31/03/2021": null
+        },
+        "non_current_assets__abstract_": {
+          "31/03/2023": null,
+          "31/03/2022": null,
+          "31/03/2021": null
+        },
+        "fixed_assets__abstract_": {
+          "31/03/2023": null,
+          "31/03/2022": null,
+          "31/03/2021": null
+        },
+        "tangible_assets": {
+          "31/03/2023": 9628.88,
+          "31/03/2022": 9744.45,
+          "31/03/2021": 10648.95
+        },
+        "intangible_assets": {
+          "31/03/2023": 0.0,
+          "31/03/2022": 0.0,
+          "31/03/2021": null
+        },
+        "tangible_assets_capital_work_in_progress": {
+          "31/03/2023": 3107.53,
+          "31/03/2022": 2462.68,
+          "31/03/2021": null
+        },
+        "total_fixed_assets": {
+          "31/03/2023": 12736.41,
+          "31/03/2022": 12207.13,
+          "31/03/2021": null
+        },
+        "non_current_investments": {
+          "31/03/2023": 79.55,
+          "31/03/2022": 79.55,
+          "31/03/2021": null
+        },
+        "long_term_loans_and_advances": {
+          "31/03/2023": 0.0,
+          "31/03/2022": 0.0,
+          "31/03/2021": null
+        },
+        "other_non_current_assets": {
+          "31/03/2023": 127.81,
+          "31/03/2022": 31.27,
+          "31/03/2021": null
+        },
+        "total_non_current_assets": {
+          "31/03/2023": 12943.77,
+          "31/03/2022": 12317.95,
+          "31/03/2021": null
+        },
+        "current_assets__abstract_": {
+          "31/03/2023": null,
+          "31/03/2022": null,
+          "31/03/2021": null
+        },
+        "current_investments": {
+          "31/03/2023": 0.0,
+          "31/03/2022": 0.0,
+          "31/03/2021": null
+        },
+        "inventories": {
+          "31/03/2023": 19275.6,
+          "31/03/2022": 16239.89,
+          "31/03/2021": null
+        },
+        "trade_receivables": {
+          "31/03/2023": 6181.27,
+          "31/03/2022": 868.24,
+          "31/03/2021": null
+        },
+        "cash_and_bank_balances": {
+          "31/03/2023": 126.77,
+          "31/03/2022": 241.44,
+          "31/03/2021": null
+        },
+        "short_term_loans_and_advances": {
+          "31/03/2023": 5623.04,
+          "31/03/2022": 4141.18,
+          "31/03/2021": null
+        },
+        "other_current_assets": {
+          "31/03/2023": 61.66,
+          "31/03/2022": 50.83,
+          "31/03/2021": null
+        },
+        "total_current_assets": {
+          "31/03/2023": 31268.34,
+          "31/03/2022": 21541.58,
+          "31/03/2021": null
+        },
+        "total_assets": {
+          "31/03/2023": 44212.11,
+          "31/03/2022": 33859.53,
+          "31/03/2021": null
+        }
+      }
+    }
+  },
+  "document_4": {
+    "company_name": "NATURE DELIGHT DAIRY & DAIRY PRODUCTS PRIVATE LIMITED",
+    "page": 35,
+    "Balance sheet": {
+      "currency": "INR",
+      "periods": [
+        "31/03/2024",
+        "31/03/2023",
+        "31/03/2022"
+      ],
+      "data": {
+        "balance_sheet__abstract_": {
+          "31/03/2024": null,
+          "31/03/2023": null,
+          "31/03/2022": null
+        },
+        "equity_and_liabilities__abstract_": {
+          "31/03/2024": null,
+          "31/03/2023": null,
+          "31/03/2022": null
+        },
+        "shareholders__funds__abstract_": {
+          "31/03/2024": null,
+          "31/03/2023": null,
+          "31/03/2022": null
+        },
+        "share_capital": {
+          "31/03/2024": 2302.826,
+          "31/03/2023": 2302.83,
+          "31/03/2022": null
+        },
+        "reserves_and_surplus": {
+          "31/03/2024": 4129.66,
+          "31/03/2023": 3075.88,
+          "31/03/2022": null
+        },
+        "total_shareholders__funds": {
+          "31/03/2024": 6432.486,
+          "31/03/2023": 5378.71,
+          "31/03/2022": null
+        },
+        "share_application_money_pending_allotment": {
+          "31/03/2024": 0.0,
+          "31/03/2023": 0.0,
+          "31/03/2022": null
+        },
+        "minority_interest": {
+          "31/03/2024": 0.0,
+          "31/03/2023": 0.0,
+          "31/03/2022": null
+        },
+        "non_current_liabilities__abstract_": {
+          "31/03/2024": null,
+          "31/03/2023": null,
+          "31/03/2022": null
+        },
+        "long_term_borrowings": {
+          "31/03/2024": 8997.38,
+          "31/03/2023": 7667.83,
+          "31/03/2022": null
+        },
+        "deferred_tax_liabilities__net_": {
+          "31/03/2024": 1368.63,
+          "31/03/2023": 1085.7,
+          "31/03/2022": null
+        },
+        "other_long_term_liabilities": {
+          "31/03/2024": 657.18,
+          "31/03/2023": 665.04,
+          "31/03/2022": null
+        },
+        "long_term_provisions": {
+          "31/03/2024": 76.99,
+          "31/03/2023": 266.36,
+          "31/03/2022": null
+        },
+        "total_non_current_liabilities": {
+          "31/03/2024": 11100.18,
+          "31/03/2023": 9684.93,
+          "31/03/2022": null
+        },
+        "current_liabilities__abstract_": {
+          "31/03/2024": null,
+          "31/03/2023": null,
+          "31/03/2022": null
+        },
+        "short_term_borrowings": {
+          "31/03/2024": 14579.62,
+          "31/03/2023": 8873.93,
+          "31/03/2022": null
+        },
+        "trade_payables": {
+          "31/03/2024": 8310.55,
+          "31/03/2023": 11905.21,
+          "31/03/2022": null
+        },
+        "other_current_liabilities": {
+          "31/03/2024": 2875.29,
+          "31/03/2023": 8314.73,
+          "31/03/2022": null
+        },
+        "short_term_provisions": {
+          "31/03/2024": 299.29,
+          "31/03/2023": 54.6,
+          "31/03/2022": null
+        },
+        "total_current_liabilities": {
+          "31/03/2024": 26064.75,
+          "31/03/2023": 29148.47,
+          "31/03/2022": null
+        },
+        "total_equity_and_liabilities": {
+          "31/03/2024": 43597.416,
+          "31/03/2023": 44212.11,
+          "31/03/2022": null
+        },
+        "assets__abstract_": {
+          "31/03/2024": null,
+          "31/03/2023": null,
+          "31/03/2022": null
+        },
+        "non_current_assets__abstract_": {
+          "31/03/2024": null,
+          "31/03/2023": null,
+          "31/03/2022": null
+        },
+        "fixed_assets__abstract_": {
+          "31/03/2024": null,
+          "31/03/2023": null,
+          "31/03/2022": null
+        },
+        "tangible_assets": {
+          "31/03/2024": 13817.43,
+          "31/03/2023": 9628.88,
+          "31/03/2022": 9744.45
+        },
+        "intangible_assets": {
+          "31/03/2024": 0.0,
+          "31/03/2023": 0.0,
+          "31/03/2022": null
+        },
+        "tangible_assets_capital_work_in_progress": {
+          "31/03/2024": 1262.57,
+          "31/03/2023": 3107.53,
+          "31/03/2022": null
+        },
+        "total_fixed_assets": {
+          "31/03/2024": 15080.0,
+          "31/03/2023": 12736.41,
+          "31/03/2022": null
+        },
+        "non_current_investments": {
+          "31/03/2024": 79.55,
+          "31/03/2023": 79.55,
+          "31/03/2022": null
+        },
+        "long_term_loans_and_advances": {
+          "31/03/2024": 0.0,
+          "31/03/2023": 0.0,
+          "31/03/2022": null
+        },
+        "other_non_current_assets": {
+          "31/03/2024": 269.43,
+          "31/03/2023": 127.81,
+          "31/03/2022": null
+        },
+        "total_non_current_assets": {
+          "31/03/2024": 15428.98,
+          "31/03/2023": 12943.77,
+          "31/03/2022": null
+        },
+        "current_assets__abstract_": {
+          "31/03/2024": null,
+          "31/03/2023": null,
+          "31/03/2022": null
+        },
+        "current_investments": {
+          "31/03/2024": 0.0,
+          "31/03/2023": 0.0,
+          "31/03/2022": null
+        },
+        "inventories": {
+          "31/03/2024": 19060.29,
+          "31/03/2023": 19275.6,
+          "31/03/2022": null
+        },
+        "trade_receivables": {
+          "31/03/2024": 2918.15,
+          "31/03/2023": 6181.27,
+          "31/03/2022": null
+        },
+        "cash_and_bank_balances": {
+          "31/03/2024": 251.96,
+          "31/03/2023": 126.77,
+          "31/03/2022": null
+        },
+        "short_term_loans_and_advances": {
+          "31/03/2024": 5845.02,
+          "31/03/2023": 5623.04,
+          "31/03/2022": null
+        },
+        "other_current_assets": {
+          "31/03/2024": 93.02,
+          "31/03/2023": 61.66,
+          "31/03/2022": null
+        },
+        "total_current_assets": {
+          "31/03/2024": 28168.44,
+          "31/03/2023": 31268.34,
+          "31/03/2022": null
+        },
+        "total_assets": {
+          "31/03/2024": 43597.42,
+          "31/03/2023": 44212.11,
+          "31/03/2022": null
+        }
+      }
+    }
+  }
+}

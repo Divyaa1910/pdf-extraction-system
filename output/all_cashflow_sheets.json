@@ -1,0 +1,808 @@
+{
+  "document_1": {
+    "company_name": "GEPDEC INFRATECH LIMITED",
+    "page": 33,
+    "statement": {
+      "currency": "Lakhs of INR",
+      "periods": [
+        "01/04/2022 to 31/03/2023",
+        "01/04/2021 to 31/03/2022",
+        "31/03/2021"
+      ],
+      "data": {
+        "statement_of_cash_flows_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null,
+          "31/03/2021": null
+        },
+        "whether_cash_flow_statement_is_applicable_on_company": {
+          "01/04/2022 to 31/03/2023": "yes",
+          "01/04/2021 to 31/03/2022": "yes",
+          "31/03/2021": null
+        },
+        "cash_flows_from_used_in_operating_activities_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null,
+          "31/03/2021": null
+        },
+        "profit_before_extraordinary_items_and_tax": {
+          "01/04/2022 to 31/03/2023": 1912.94,
+          "01/04/2021 to 31/03/2022": 1745.54,
+          "31/03/2021": null
+        },
+        "adjustments_for_reconcile_profit_loss_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null,
+          "31/03/2021": null
+        },
+        "adjustments_to_profit_loss_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null,
+          "31/03/2021": null
+        },
+        "adjustments_for_finance_costs": {
+          "01/04/2022 to 31/03/2023": 472.32,
+          "01/04/2021 to 31/03/2022": 386.07,
+          "31/03/2021": null
+        },
+        "adjustments_for_depreciation_and_amortisation_expense": {
+          "01/04/2022 to 31/03/2023": 133.4,
+          "01/04/2021 to 31/03/2022": 138.98,
+          "31/03/2021": null
+        },
+        "other_adjustments_for_non_cash_items": {
+          "01/04/2022 to 31/03/2023": -53.57,
+          "01/04/2021 to 31/03/2022": -4.29,
+          "31/03/2021": null
+        },
+        "total_adjustments_to_profit_loss": {
+          "01/04/2022 to 31/03/2023": 552.15,
+          "01/04/2021 to 31/03/2022": 520.76,
+          "31/03/2021": null
+        },
+        "adjustments_for_working_capital_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null,
+          "31/03/2021": null
+        },
+        "adjustments_for_decrease_increase_in_inventories": {
+          "01/04/2022 to 31/03/2023": -489.03,
+          "01/04/2021 to 31/03/2022": 219.52,
+          "31/03/2021": null
+        },
+        "adjustments_for_decrease_increase_in_trade_receivables": {
+          "01/04/2022 to 31/03/2023": 6648.57,
+          "01/04/2021 to 31/03/2022": -9426.68,
+          "31/03/2021": null
+        },
+        "adjustments_for_decrease_increase_in_other_current_assets": {
+          "01/04/2022 to 31/03/2023": -3505.3,
+          "01/04/2021 to 31/03/2022": 1841.79,
+          "31/03/2021": null
+        },
+        "adjustments_for_increase_decrease_in_trade_payables": {
+          "01/04/2022 to 31/03/2023": -4444.44,
+          "01/04/2021 to 31/03/2022": 6498.2,
+          "31/03/2021": null
+        },
+        "adjustments_for_increase_decrease_in_other_current_liabilities": {
+          "01/04/2022 to 31/03/2023": 1284.45,
+          "01/04/2021 to 31/03/2022": -1227.04,
+          "31/03/2021": null
+        },
+        "adjustments_for_provisions": {
+          "01/04/2022 to 31/03/2023": -232.15,
+          "01/04/2021 to 31/03/2022": 0.0,
+          "31/03/2021": null
+        },
+        "total_adjustments_for_working_capital": {
+          "01/04/2022 to 31/03/2023": -737.9,
+          "01/04/2021 to 31/03/2022": -2094.21,
+          "31/03/2021": null
+        },
+        "total_adjustments_for_reconcile_profit_loss": {
+          "01/04/2022 to 31/03/2023": -185.75,
+          "01/04/2021 to 31/03/2022": -1573.45,
+          "31/03/2021": null
+        },
+        "net_cash_flows_from_used_in_operations": {
+          "01/04/2022 to 31/03/2023": 1727.19,
+          "01/04/2021 to 31/03/2022": 172.09,
+          "31/03/2021": null
+        },
+        "interest_received": {
+          "01/04/2022 to 31/03/2023": -142.95,
+          "01/04/2021 to 31/03/2022": -130.13,
+          "31/03/2021": null
+        },
+        "income_taxes_paid_refund": {
+          "01/04/2022 to 31/03/2023": 499.16,
+          "01/04/2021 to 31/03/2022": 580.85,
+          "31/03/2021": null
+        },
+        "net_cash_flows_from_used_in_operating_activities_before_extraordinary_items": {
+          "01/04/2022 to 31/03/2023": 1085.08,
+          "01/04/2021 to 31/03/2022": -538.89,
+          "31/03/2021": null
+        },
+        "net_cash_flows_from_used_in_operating_activities": {
+          "01/04/2022 to 31/03/2023": 1085.08,
+          "01/04/2021 to 31/03/2022": -538.89,
+          "31/03/2021": null
+        },
+        "cash_flows_from_used_in_investing_activities_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null,
+          "31/03/2021": null
+        },
+        "purchase_of_tangible_assets": {
+          "01/04/2022 to 31/03/2023": 118.38,
+          "01/04/2021 to 31/03/2022": 42.9,
+          "31/03/2021": null
+        },
+        "other_inflows_outflows_of_cash": {
+          "01/04/2022 to 31/03/2023": 54.57,
+          "01/04/2021 to 31/03/2022": 10.91,
+          "31/03/2021": null
+        },
+        "net_cash_flows_from_used_in_investing_activities_before_extraordinary_items": {
+          "01/04/2022 to 31/03/2023": 79.14,
+          "01/04/2021 to 31/03/2022": 98.14,
+          "31/03/2021": null
+        },
+        "net_cash_flows_from_used_in_investing_activities": {
+          "01/04/2022 to 31/03/2023": 79.14,
+          "01/04/2021 to 31/03/2022": 98.14,
+          "31/03/2021": null
+        },
+        "cash_flows_from_used_in_financing_activities_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null,
+          "31/03/2021": null
+        },
+        "proceeds_from_borrowings": {
+          "01/04/2022 to 31/03/2023": 0.0,
+          "01/04/2021 to 31/03/2022": 413.44,
+          "31/03/2021": null
+        },
+        "repayments_of_borrowings": {
+          "01/04/2022 to 31/03/2023": 237.2,
+          "01/04/2021 to 31/03/2022": 21.39,
+          "31/03/2021": null
+        },
+        "net_cash_flows_from_used_in_financing_activities_before_extraordinary_items": {
+          "01/04/2022 to 31/03/2023": -1822.47,
+          "01/04/2021 to 31/03/2022": 883.5,
+          "31/03/2021": null
+        },
+        "net_cash_flows_from_used_in_financing_activities": {
+          "01/04/2022 to 31/03/2023": -1822.47,
+          "01/04/2021 to 31/03/2022": 883.5,
+          "31/03/2021": null
+        },
+        "net_increase_decrease_in_cash_and_cash_equivalents_before_effect_of_exchange_rate_changes": {
+          "01/04/2022 to 31/03/2023": -658.25,
+          "01/04/2021 to 31/03/2022": 442.75,
+          "31/03/2021": null
+        },
+        "net_increase_decrease_in_cash_and_cash_equivalents": {
+          "01/04/2022 to 31/03/2023": -658.25,
+          "01/04/2021 to 31/03/2022": 442.75,
+          "31/03/2021": null
+        },
+        "cash_and_cash_equivalents_cash_flow_statement_at_end_of_period": {
+          "01/04/2022 to 31/03/2023": 2146.09,
+          "01/04/2021 to 31/03/2022": 2804.33,
+          "31/03/2021": 2361.59
+        }
+      }
+    }
+  },
+  "document_2": {
+    "company_name": "GEPDEC INFRATECH LIMITED",
+    "page": 39,
+    "statement": {
+      "currency": "Lakhs of INR",
+      "periods": [
+        "01/04/2023 to 31/03/2024",
+        "01/04/2022 to 31/03/2023",
+        "31/03/2022"
+      ],
+      "data": {
+        "statement_of_cash_flows_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null,
+          "31/03/2022": null
+        },
+        "whether_cash_flow_statement_is_applicable_on_company": {
+          "01/04/2023 to 31/03/2024": "yes",
+          "01/04/2022 to 31/03/2023": "yes",
+          "31/03/2022": null
+        },
+        "cash_flows_from_used_in_operating_activities_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null,
+          "31/03/2022": null
+        },
+        "profit_before_extraordinary_items_and_tax": {
+          "01/04/2023 to 31/03/2024": 1002.14,
+          "01/04/2022 to 31/03/2023": 1912.94,
+          "31/03/2022": null
+        },
+        "adjustments_for_reconcile_profit_loss_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null,
+          "31/03/2022": null
+        },
+        "adjustments_to_profit_loss_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null,
+          "31/03/2022": null
+        },
+        "adjustments_for_finance_costs": {
+          "01/04/2023 to 31/03/2024": 708.26,
+          "01/04/2022 to 31/03/2023": 472.32,
+          "31/03/2022": null
+        },
+        "adjustments_for_depreciation_and_amortisation_expense": {
+          "01/04/2023 to 31/03/2024": 137.27,
+          "01/04/2022 to 31/03/2023": 133.4,
+          "31/03/2022": null
+        },
+        "other_adjustments_for_non_cash_items": {
+          "01/04/2023 to 31/03/2024": -6.42,
+          "01/04/2022 to 31/03/2023": -53.57,
+          "31/03/2022": null
+        },
+        "total_adjustments_to_profit_loss": {
+          "01/04/2023 to 31/03/2024": 839.11,
+          "01/04/2022 to 31/03/2023": 552.15,
+          "31/03/2022": null
+        },
+        "adjustments_for_working_capital_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null,
+          "31/03/2022": null
+        },
+        "adjustments_for_decrease_increase_in_inventories": {
+          "01/04/2023 to 31/03/2024": -625.27,
+          "01/04/2022 to 31/03/2023": -489.03,
+          "31/03/2022": null
+        },
+        "adjustments_for_decrease_increase_in_trade_receivables": {
+          "01/04/2023 to 31/03/2024": 1551.88,
+          "01/04/2022 to 31/03/2023": 6648.57,
+          "31/03/2022": null
+        },
+        "adjustments_for_decrease_increase_in_other_current_assets": {
+          "01/04/2023 to 31/03/2024": -907.22,
+          "01/04/2022 to 31/03/2023": -3505.3,
+          "31/03/2022": null
+        },
+        "adjustments_for_increase_decrease_in_trade_payables": {
+          "01/04/2023 to 31/03/2024": -2565.55,
+          "01/04/2022 to 31/03/2023": -4444.44,
+          "31/03/2022": null
+        },
+        "adjustments_for_increase_decrease_in_other_current_liabilities": {
+          "01/04/2023 to 31/03/2024": -654.54,
+          "01/04/2022 to 31/03/2023": 1284.45,
+          "31/03/2022": null
+        },
+        "adjustments_for_provisions": {
+          "01/04/2023 to 31/03/2024": 12.99,
+          "01/04/2022 to 31/03/2023": -232.15,
+          "31/03/2022": null
+        },
+        "total_adjustments_for_working_capital": {
+          "01/04/2023 to 31/03/2024": -3187.71,
+          "01/04/2022 to 31/03/2023": -737.9,
+          "31/03/2022": null
+        },
+        "total_adjustments_for_reconcile_profit_loss": {
+          "01/04/2023 to 31/03/2024": -2348.6,
+          "01/04/2022 to 31/03/2023": -185.75,
+          "31/03/2022": null
+        },
+        "net_cash_flows_from_used_in_operations": {
+          "01/04/2023 to 31/03/2024": -1346.46,
+          "01/04/2022 to 31/03/2023": 1727.19,
+          "31/03/2022": null
+        },
+        "interest_received": {
+          "01/04/2023 to 31/03/2024": -221.4,
+          "01/04/2022 to 31/03/2023": -142.95,
+          "31/03/2022": null
+        },
+        "income_taxes_paid_refund": {
+          "01/04/2023 to 31/03/2024": 338.61,
+          "01/04/2022 to 31/03/2023": 499.16,
+          "31/03/2022": null
+        },
+        "net_cash_flows_from_used_in_operating_activities_before_extraordinary_items": {
+          "01/04/2023 to 31/03/2024": -1906.47,
+          "01/04/2022 to 31/03/2023": 1085.08,
+          "31/03/2022": null
+        },
+        "net_cash_flows_from_used_in_operating_activities": {
+          "01/04/2023 to 31/03/2024": -1906.47,
+          "01/04/2022 to 31/03/2023": 1085.08,
+          "31/03/2022": null
+        },
+        "cash_flows_from_used_in_investing_activities_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null,
+          "31/03/2022": null
+        },
+        "purchase_of_tangible_assets": {
+          "01/04/2023 to 31/03/2024": 0.14,
+          "01/04/2022 to 31/03/2023": 118.38,
+          "31/03/2022": null
+        },
+        "other_inflows_outflows_of_cash": {
+          "01/04/2023 to 31/03/2024": 6.42,
+          "01/04/2022 to 31/03/2023": 54.57,
+          "31/03/2022": null
+        },
+        "net_cash_flows_from_used_in_investing_activities_before_extraordinary_items": {
+          "01/04/2023 to 31/03/2024": 227.68,
+          "01/04/2022 to 31/03/2023": 79.14,
+          "31/03/2022": null
+        },
+        "net_cash_flows_from_used_in_investing_activities": {
+          "01/04/2023 to 31/03/2024": 227.68,
+          "01/04/2022 to 31/03/2023": 79.14,
+          "31/03/2022": null
+        },
+        "cash_flows_from_used_in_financing_activities_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null,
+          "31/03/2022": null
+        },
+        "proceeds_from_borrowings": {
+          "01/04/2023 to 31/03/2024": 3886.18,
+          "01/04/2022 to 31/03/2023": 0.0,
+          "31/03/2022": null
+        },
+        "repayments_of_borrowings": {
+          "01/04/2023 to 31/03/2024": 0.0,
+          "01/04/2022 to 31/03/2023": 237.2,
+          "31/03/2022": null
+        },
+        "net_cash_flows_from_used_in_financing_activities_before_extraordinary_items": {
+          "01/04/2023 to 31/03/2024": 1563.44,
+          "01/04/2022 to 31/03/2023": -1822.47,
+          "31/03/2022": null
+        },
+        "net_cash_flows_from_used_in_financing_activities": {
+          "01/04/2023 to 31/03/2024": 1563.44,
+          "01/04/2022 to 31/03/2023": -1822.47,
+          "31/03/2022": null
+        },
+        "net_increase_decrease_in_cash_and_cash_equivalents_before_effect_of_exchange_rate_changes": {
+          "01/04/2023 to 31/03/2024": -115.35,
+          "01/04/2022 to 31/03/2023": -658.25,
+          "31/03/2022": null
+        },
+        "net_increase_decrease_in_cash_and_cash_equivalents": {
+          "01/04/2023 to 31/03/2024": -115.35,
+          "01/04/2022 to 31/03/2023": -658.25,
+          "31/03/2022": null
+        },
+        "cash_and_cash_equivalents_cash_flow_statement_at_end_of_period": {
+          "01/04/2023 to 31/03/2024": 2030.74,
+          "01/04/2022 to 31/03/2023": 2146.09,
+          "31/03/2022": 2804.33
+        }
+      }
+    }
+  },
+  "document_3": {
+    "company_name": "NATURE DELIGHT DAIRY & DAIRY PRODUCTS PRIVATE LIMITED",
+    "page": 30,
+    "statement": {
+      "currency": "Lakhs of INR",
+      "periods": [
+        "01/04/2022 to 31/03/2023",
+        "01/04/2021 to 31/03/2022",
+        "31/03/2021"
+      ],
+      "data": {
+        "statement_of_cash_flows_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null,
+          "31/03/2021": null
+        },
+        "whether_cash_flow_statement_is_applicable_on_company": {
+          "01/04/2022 to 31/03/2023": "yes",
+          "01/04/2021 to 31/03/2022": "yes",
+          "31/03/2021": null
+        },
+        "cash_flows_from_used_in_operating_activities_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null,
+          "31/03/2021": null
+        },
+        "profit_before_extraordinary_items_and_tax": {
+          "01/04/2022 to 31/03/2023": 1519.55,
+          "01/04/2021 to 31/03/2022": 681.28,
+          "31/03/2021": null
+        },
+        "adjustments_for_reconcile_profit_loss_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null,
+          "31/03/2021": null
+        },
+        "adjustments_to_profit_loss_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null,
+          "31/03/2021": null
+        },
+        "adjustments_for_depreciation_and_amortisation_expense": {
+          "01/04/2022 to 31/03/2023": 728.84,
+          "01/04/2021 to 31/03/2022": 844.29,
+          "31/03/2021": null
+        },
+        "other_adjustments_to_reconcile_profit_loss": {
+          "01/04/2022 to 31/03/2023": 10.43,
+          "01/04/2021 to 31/03/2022": 10.05,
+          "31/03/2021": null
+        },
+        "other_adjustments_for_non_cash_items": {
+          "01/04/2022 to 31/03/2023": 78.15,
+          "01/04/2021 to 31/03/2022": -35.1,
+          "31/03/2021": null
+        },
+        "total_adjustments_to_profit_loss": {
+          "01/04/2022 to 31/03/2023": 817.42,
+          "01/04/2021 to 31/03/2022": 819.24,
+          "31/03/2021": null
+        },
+        "adjustments_for_working_capital_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null,
+          "31/03/2021": null
+        },
+        "adjustments_for_decrease_increase_in_inventories": {
+          "01/04/2022 to 31/03/2023": -3035.71,
+          "01/04/2021 to 31/03/2022": 875.89,
+          "31/03/2021": null
+        },
+        "adjustments_for_decrease_increase_in_trade_receivables": {
+          "01/04/2022 to 31/03/2023": -5313.03,
+          "01/04/2021 to 31/03/2022": 1923.68,
+          "31/03/2021": null
+        },
+        "adjustments_for_decrease_increase_in_other_current_assets": {
+          "01/04/2022 to 31/03/2023": -1589.22,
+          "01/04/2021 to 31/03/2022": -1500.25,
+          "31/03/2021": null
+        },
+        "adjustments_for_increase_decrease_in_trade_payables": {
+          "01/04/2022 to 31/03/2023": 4701.3,
+          "01/04/2021 to 31/03/2022": -1060.47,
+          "31/03/2021": null
+        },
+        "adjustments_for_increase_decrease_in_other_current_liabilities": {
+          "01/04/2022 to 31/03/2023": 562.56,
+          "01/04/2021 to 31/03/2022": 1267.05,
+          "31/03/2021": null
+        },
+        "total_adjustments_for_working_capital": {
+          "01/04/2022 to 31/03/2023": -4674.1,
+          "01/04/2021 to 31/03/2022": 1505.9,
+          "31/03/2021": null
+        },
+        "total_adjustments_for_reconcile_profit_loss": {
+          "01/04/2022 to 31/03/2023": -3856.68,
+          "01/04/2021 to 31/03/2022": 2325.14,
+          "31/03/2021": null
+        },
+        "net_cash_flows_from_used_in_operations": {
+          "01/04/2022 to 31/03/2023": -2337.13,
+          "01/04/2021 to 31/03/2022": 3006.42,
+          "31/03/2021": null
+        },
+        "interest_paid": {
+          "01/04/2022 to 31/03/2023": -1079.18,
+          "01/04/2021 to 31/03/2022": -1603.74,
+          "31/03/2021": null
+        },
+        "interest_received": {
+          "01/04/2022 to 31/03/2023": -8.37,
+          "01/04/2021 to 31/03/2022": -11.76,
+          "31/03/2021": null
+        },
+        "income_taxes_paid_refund": {
+          "01/04/2022 to 31/03/2023": 113.72,
+          "01/04/2021 to 31/03/2022": 162.77,
+          "31/03/2021": null
+        },
+        "net_cash_flows_from_used_in_operating_activities_before_extraordinary_items": {
+          "01/04/2022 to 31/03/2023": -1380.04,
+          "01/04/2021 to 31/03/2022": 4435.63,
+          "31/03/2021": null
+        },
+        "net_cash_flows_from_used_in_operating_activities": {
+          "01/04/2022 to 31/03/2023": -1380.04,
+          "01/04/2021 to 31/03/2022": 4435.63,
+          "31/03/2021": null
+        },
+        "cash_flows_from_used_in_investing_activities_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null,
+          "31/03/2021": null
+        },
+        "purchase_of_tangible_assets": {
+          "01/04/2022 to 31/03/2023": 1258.12,
+          "01/04/2021 to 31/03/2022": 554.07,
+          "31/03/2021": null
+        },
+        "net_cash_flows_from_used_in_investing_activities_before_extraordinary_items": {
+          "01/04/2022 to 31/03/2023": -1249.75,
+          "01/04/2021 to 31/03/2022": -542.31,
+          "31/03/2021": null
+        },
+        "net_cash_flows_from_used_in_investing_activities": {
+          "01/04/2022 to 31/03/2023": -1249.75,
+          "01/04/2021 to 31/03/2022": -542.31,
+          "31/03/2021": null
+        },
+        "cash_flows_from_used_in_financing_activities_abstract": {
+          "01/04/2022 to 31/03/2023": null,
+          "01/04/2021 to 31/03/2022": null,
+          "31/03/2021": null
+        },
+        "proceeds_from_issuing_shares": {
+          "01/04/2022 to 31/03/2023": 181.56,
+          "01/04/2021 to 31/03/2022": 310.0,
+          "31/03/2021": null
+        },
+        "proceeds_from_borrowings": {
+          "01/04/2022 to 31/03/2023": 3455.41,
+          "01/04/2021 to 31/03/2022": 1917.55,
+          "31/03/2021": null
+        },
+        "repayments_of_borrowings": {
+          "01/04/2022 to 31/03/2023": 891.12,
+          "01/04/2021 to 31/03/2022": 4999.65,
+          "31/03/2021": null
+        },
+        "other_inflows_outflows_of_cash": {
+          "01/04/2022 to 31/03/2023": 848.44,
+          "01/04/2021 to 31/03/2022": 0.0,
+          "31/03/2021": null
+        },
+        "net_cash_flows_from_used_in_financing_activities_before_extraordinary_items": {
+          "01/04/2022 to 31/03/2023": 2515.12,
+          "01/04/2021 to 31/03/2022": -4375.85,
+          "31/03/2021": null
+        },
+        "net_cash_flows_from_used_in_financing_activities": {
+          "01/04/2022 to 31/03/2023": 2515.12,
+          "01/04/2021 to 31/03/2022": -4375.85,
+          "31/03/2021": null
+        },
+        "net_increase_decrease_in_cash_and_cash_equivalents_before_effect_of_exchange_rate_changes": {
+          "01/04/2022 to 31/03/2023": -114.67,
+          "01/04/2021 to 31/03/2022": -482.53,
+          "31/03/2021": null
+        },
+        "net_increase_decrease_in_cash_and_cash_equivalents": {
+          "01/04/2022 to 31/03/2023": -114.67,
+          "01/04/2021 to 31/03/2022": -482.53,
+          "31/03/2021": null
+        },
+        "cash_and_cash_equivalents_cash_flow_statement_at_end_of_period": {
+          "01/04/2022 to 31/03/2023": 126.77,
+          "01/04/2021 to 31/03/2022": 241.44,
+          "31/03/2021": 723.97
+        }
+      }
+    }
+  },
+  "document_4": {
+    "company_name": "NATURE DELIGHT DAIRY & DAIRY PRODUCTS PRIVATE LIMITED",
+    "page": 38,
+    "statement": {
+      "currency": "Lakhs of INR",
+      "periods": [
+        "01/04/2023 to 31/03/2024",
+        "01/04/2022 to 31/03/2023",
+        "31/03/2022"
+      ],
+      "data": {
+        "statement_of_cash_flows_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null,
+          "31/03/2022": null
+        },
+        "whether_cash_flow_statement_is_applicable_on_company": {
+          "01/04/2023 to 31/03/2024": "yes",
+          "01/04/2022 to 31/03/2023": "yes",
+          "31/03/2022": null
+        },
+        "cash_flows_from_used_in_operating_activities_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null,
+          "31/03/2022": null
+        },
+        "profit_before_extraordinary_items_and_tax": {
+          "01/04/2023 to 31/03/2024": 1634.53,
+          "01/04/2022 to 31/03/2023": 1519.55,
+          "31/03/2022": null
+        },
+        "adjustments_for_reconcile_profit_loss_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null,
+          "31/03/2022": null
+        },
+        "adjustments_to_profit_loss_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null,
+          "31/03/2022": null
+        },
+        "adjustments_for_depreciation_and_amortisation_expense": {
+          "01/04/2023 to 31/03/2024": 854.5,
+          "01/04/2022 to 31/03/2023": 728.84,
+          "31/03/2022": null
+        },
+        "other_adjustments_to_reconcile_profit_loss": {
+          "01/04/2023 to 31/03/2024": 23.01,
+          "01/04/2022 to 31/03/2023": 10.43,
+          "31/03/2022": null
+        },
+        "other_adjustments_for_non_cash_items": {
+          "01/04/2023 to 31/03/2024": 0.0,
+          "01/04/2022 to 31/03/2023": 78.15,
+          "31/03/2022": null
+        },
+        "total_adjustments_to_profit_loss": {
+          "01/04/2023 to 31/03/2024": 877.51,
+          "01/04/2022 to 31/03/2023": 817.42,
+          "31/03/2022": null
+        },
+        "adjustments_for_working_capital_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null,
+          "31/03/2022": null
+        },
+        "adjustments_for_decrease_increase_in_inventories": {
+          "01/04/2023 to 31/03/2024": 215.33,
+          "01/04/2022 to 31/03/2023": -3035.71,
+          "31/03/2022": null
+        },
+        "adjustments_for_decrease_increase_in_trade_receivables": {
+          "01/04/2023 to 31/03/2024": 3263.12,
+          "01/04/2022 to 31/03/2023": -5313.03,
+          "31/03/2022": null
+        },
+        "adjustments_for_decrease_increase_in_other_current_assets": {
+          "01/04/2023 to 31/03/2024": -394.97,
+          "01/04/2022 to 31/03/2023": -1589.22,
+          "31/03/2022": null
+        },
+        "adjustments_for_increase_decrease_in_trade_payables": {
+          "01/04/2023 to 31/03/2024": -3594.66,
+          "01/04/2022 to 31/03/2023": 4701.3,
+          "31/03/2022": null
+        },
+        "adjustments_for_increase_decrease_in_other_current_liabilities": {
+          "01/04/2023 to 31/03/2024": -5447.3,
+          "01/04/2022 to 31/03/2023": 562.56,
+          "31/03/2022": null
+        },
+        "total_adjustments_for_working_capital": {
+          "01/04/2023 to 31/03/2024": -5958.48,
+          "01/04/2022 to 31/03/2023": -4674.1,
+          "31/03/2022": null
+        },
+        "total_adjustments_for_reconcile_profit_loss": {
+          "01/04/2023 to 31/03/2024": -5080.97,
+          "01/04/2022 to 31/03/2023": -3856.68,
+          "31/03/2022": null
+        },
+        "net_cash_flows_from_used_in_operations": {
+          "01/04/2023 to 31/03/2024": -3446.44,
+          "01/04/2022 to 31/03/2023": -2337.13,
+          "31/03/2022": null
+        },
+        "interest_paid": {
+          "01/04/2023 to 31/03/2024": -1927.49,
+          "01/04/2022 to 31/03/2023": -1079.18,
+          "31/03/2022": null
+        },
+        "interest_received": {
+          "01/04/2023 to 31/03/2024": -20.13,
+          "01/04/2022 to 31/03/2023": -8.37,
+          "31/03/2022": null
+        },
+        "income_taxes_paid_refund": {
+          "01/04/2023 to 31/03/2024": 265.5,
+          "01/04/2022 to 31/03/2023": 113.72,
+          "31/03/2022": null
+        },
+        "net_cash_flows_from_used_in_operating_activities_before_extraordinary_items": {
+          "01/04/2023 to 31/03/2024": -1804.58,
+          "01/04/2022 to 31/03/2023": -1380.04,
+          "31/03/2022": null
+        },
+        "net_cash_flows_from_used_in_operating_activities": {
+          "01/04/2023 to 31/03/2024": -1804.58,
+          "01/04/2022 to 31/03/2023": -1380.04,
+          "31/03/2022": null
+        },
+        "cash_flows_from_used_in_investing_activities_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null,
+          "31/03/2022": null
+        },
+        "purchase_of_tangible_assets": {
+          "01/04/2023 to 31/03/2024": 3198.1,
+          "01/04/2022 to 31/03/2023": 1258.12,
+          "31/03/2022": null
+        },
+        "net_cash_flows_from_used_in_investing_activities_before_extraordinary_items": {
+          "01/04/2023 to 31/03/2024": -3177.97,
+          "01/04/2022 to 31/03/2023": -1249.75,
+          "31/03/2022": null
+        },
+        "net_cash_flows_from_used_in_investing_activities": {
+          "01/04/2023 to 31/03/2024": -3177.97,
+          "01/04/2022 to 31/03/2023": -1249.75,
+          "31/03/2022": null
+        },
+        "cash_flows_from_used_in_financing_activities_abstract": {
+          "01/04/2023 to 31/03/2024": null,
+          "01/04/2022 to 31/03/2023": null,
+          "31/03/2022": null
+        },
+        "proceeds_from_issuing_shares": {
+          "01/04/2023 to 31/03/2024": 0.0,
+          "01/04/2022 to 31/03/2023": 181.56,
+          "31/03/2022": null
+        },
+        "proceeds_from_borrowings": {
+          "01/04/2023 to 31/03/2024": 7035.23,
+          "01/04/2022 to 31/03/2023": 3455.41,
+          "31/03/2022": null
+        },
+        "repayments_of_borrowings": {
+          "01/04/2023 to 31/03/2024": 0.0,
+          "01/04/2022 to 31/03/2023": 891.12,
+          "31/03/2022": null
+        },
+        "other_inflows_outflows_of_cash": {
+          "01/04/2023 to 31/03/2024": 0.0,
+          "01/04/2022 to 31/03/2023": 848.44,
+          "31/03/2022": null
+        },
+        "net_cash_flows_from_used_in_financing_activities_before_extraordinary_items": {
+          "01/04/2023 to 31/03/2024": 5107.74,
+          "01/04/2022 to 31/03/2023": 2515.12,
+          "31/03/2022": null
+        },
+        "net_cash_flows_from_used_in_financing_activities": {
+          "01/04/2023 to 31/03/2024": 5107.74,
+          "01/04/2022 to 31/03/2023": 2515.12,
+          "31/03/2022": null
+        },
+        "net_increase_decrease_in_cash_and_cash_equivalents_before_effect_of_exchange_rate_changes": {
+          "01/04/2023 to 31/03/2024": 125.19,
+          "01/04/2022 to 31/03/2023": -114.67,
+          "31/03/2022": null
+        },
+        "net_increase_decrease_in_cash_and_cash_equivalents": {
+          "01/04/2023 to 31/03/2024": 125.19,
+          "01/04/2022 to 31/03/2023": -114.67,
+          "31/03/2022": null
+        },
+        "cash_and_cash_equivalents_cash_flow_statement_at_end_of_period": {
+          "01/04/2023 to 31/03/2024": 251.96,
+          "01/04/2022 to 31/03/2023": 126.77,
+          "31/03/2022": 241.44
+        }
+      }
+    }
+  }
+}
